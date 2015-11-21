@@ -1,0 +1,11 @@
+It really helps a lot, You get all the diferences between a clean and a buggy source code. However, I'd be lot easier if the interface to show to diffs can be side by side and not one after the other.
+
+You dont need to look for all the code which can be thousands or even millions of line.You just need to compare the changes made in the file to know about the bug.
+
+Pros of Manual Commit : You have complete control of when to commit and and what point should you commit. There is no problem of commiting without completing the code which may lead to compilation errors.YOu can make commit based on a logical functionality added to the code.
+
+Cons of Manual Commit : You might forget to commit the changes and changes might never be reflected in repository. YOu have see for yourself that the commit should not be very big or small.
+
+If a feature requires you to edit multiple files, then we need to commit the changes in multiple file in one simgle commit.
+
+git log is used to see all the commits with the timestamp when the commit was made. git diff can be used to find the differences between two commits.
