@@ -1,1 +1,5 @@
 staging area contains those files which are reaady to be be committed but not commited just yet. WOrking directory contains the files that are not notrack currently.
+
+THe code in both the branches get merged
+
+Automatic Merging is great but doesn't work for same line of code changes
